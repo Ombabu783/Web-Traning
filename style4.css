@@ -1,0 +1,59 @@
+/* .title
+{
+    color: blue;
+} 
+#Welcome {
+background: #e70808;
+}
+.heading {
+    font-size: 30px;
+    color: green;
+    
+}
+.box {
+    color: yellow;
+    height: 500px;
+    width: 500px;
+    background-color: black;
+}
+.sub-box {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(228, 96, 9);
+    padding: 20px;
+    border: 20px solid rgb(8, 8, 8);
+    
+} */
+ body {
+    position: relative;
+ }
+
+.container {
+    height: 100%;
+    width: 100%;
+    background:rgb(236, 236, 9);
+    
+}
+.box {
+    height: 150px;
+    width: 150px;
+    border :2px solid rgb(245, 238, 238);
+}
+.box-1 {
+    top= 50%;
+    left: 50%;
+    background-color: red;
+}
+.box-2 {
+     background-color: green;
+} 
+.box-3 {
+    background-color: blue;
+}
+
+.box-4 {
+    background-color: rgb(10, 10, 10);
+}
+.box-5 {
+    background-color: rgb(10, 240, 163);
+}
